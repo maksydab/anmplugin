@@ -14,6 +14,10 @@ so for linux
 ```
 ./anmplugin-linux serve
 ```
+and for mac
+```
+./anmplugin-mac serve
+```
 ## Useful features
 to not send an unnecessary or conifdential data into your zip file you can just add `.ignore` file which works like any normal `.gitignore` file , example config
 ```
